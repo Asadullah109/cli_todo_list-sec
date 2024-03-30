@@ -3,6 +3,9 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 
+
+
+
 let todoList = [];
 let condition = true;
 
